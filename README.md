@@ -2,7 +2,7 @@
 - 👀 I’m interested in web proxies to bypass restrictions
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on a web proxy to bypass restrictions
-- 📫 How to reach me ...
+- 📫 I'm unreachable at the moment
 
 <!---
 bl4ckun1x-team/bl4ckun1x-team is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
